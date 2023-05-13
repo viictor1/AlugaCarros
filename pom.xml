@@ -33,6 +33,11 @@
 			<artifactId>junit</artifactId>
 			<scope>4.12</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.vitinejv.filmes</groupId>
+			<artifactId>filmes</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
