@@ -19,6 +19,11 @@ public class Carro {
 	}
 
 
+	public Carro() {
+		
+	}
+
+
 	public String getMarca() {
 		return marca;
 	}
